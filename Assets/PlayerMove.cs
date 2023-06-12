@@ -18,5 +18,9 @@ public class PlayerMove : MonoBehaviour
         {
             Debug.Log("a = 1");
         }
+        else
+        {
+            Debug.Log("a != 1");
+        }
     }
 }
