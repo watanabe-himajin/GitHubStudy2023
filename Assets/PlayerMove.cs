@@ -19,6 +19,7 @@ public class PlayerMove : MonoBehaviour
             Debug.Log("a = 1");
             a = a + 10;
         }
+
         else
         {
             Debug.Log("a != 1");
